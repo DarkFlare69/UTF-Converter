@@ -1,0 +1,10 @@
+D:\VS\UTF-Converter\UTF-Converter\bin\Debug\UTF-Converter.exe.config
+D:\VS\UTF-Converter\UTF-Converter\bin\Debug\UTF-Converter.exe
+D:\VS\UTF-Converter\UTF-Converter\bin\Debug\UTF-Converter.pdb
+D:\VS\UTF-Converter\UTF-Converter\obj\Debug\UTF_Converter.Form1.resources
+D:\VS\UTF-Converter\UTF-Converter\obj\Debug\UTF_Converter.Properties.Resources.resources
+D:\VS\UTF-Converter\UTF-Converter\obj\Debug\UTF-Converter.csproj.GenerateResource.cache
+D:\VS\UTF-Converter\UTF-Converter\obj\Debug\UTF-Converter.csproj.CoreCompileInputs.cache
+D:\VS\UTF-Converter\UTF-Converter\obj\Debug\UTF-Converter.exe
+D:\VS\UTF-Converter\UTF-Converter\obj\Debug\UTF-Converter.pdb
+D:\VS\UTF-Converter\UTF-Converter\obj\Debug\UTF-Converter.csprojAssemblyReference.cache
