@@ -3,6 +3,9 @@ This is a program that will convert between text and UTF encoding standard. This
 
 I made this because there are very few other programs that will accurately do this offline. Many web based converters are unreliable and require internet access. This is an offline, convenient alternative. This works well for editing text in videogames or creating Miis with custom symbols.
 
+# Download
+Download: https://github.com/DarkFlare69/UTF-Converter/raw/master/UTF-Converter/bin/Debug/UTF-Converter.exe
+
 # Screenshots
 ![image](https://github.com/DarkFlare69/UTF-Converter/assets/10453867/680779ad-a19e-467a-a0e4-3a81a581bfde)
 
